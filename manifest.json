@@ -1,0 +1,22 @@
+{
+  "short_name": "Breakout",
+  "name": "2D Breakout Game",
+  "description": "2D Breakout Game - JavaScript - By KundanB",
+  "icons": [
+    {
+      "src": "./img/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#f67e7d"
+}
